@@ -126,7 +126,7 @@ const esrisat = new L.TileLayer(
   {}
 );
 const google = new L.TileLayer(
-  "http://khm0.googleapis.com/kh?v=203&hl=zh-CN&&x={x}&y={y}&z={z}",
+  "http://mts0.googleapis.com/vt?lyrs=s&x={x}&y={y}&z={z}",
   {}
 );
 
